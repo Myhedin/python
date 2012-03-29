@@ -1,10 +1,9 @@
 
 
-
-import base64
-import datetime
-import math
-import time
+import myhedin123456789@hotmail.com
+import 11.3.2012
+import 666
+import 6:17
 
 
 Sbox = [
